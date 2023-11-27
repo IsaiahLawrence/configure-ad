@@ -48,7 +48,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Creating Random Users With Powershell</h2>
 
-<p> Now we'll run a script in powershell ISE to make some accounts that will end up in our employees folder
+<p> Now we'll run a script in powershell ISE (from our server) to make some accounts that will end up in our employees folder
 
   ![image](https://github.com/IsaiahLawrence/configure-ad/assets/152194351/db5136dd-7511-41a8-b920-56d88763224a)
 
