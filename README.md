@@ -37,7 +37,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - After signing on you'll have a pop up window that says "welcome to the exampledomain.com domain." The computer will need to restart. When the computer reboots we will be able to log in to the admin account on our windows 10 device, because they share the same domain now.
 
-- 
+- From our windows 10 machine we'll log in as admin and allow remote desktop for all domain users, this is so after we create users we'll be able to log into this computer. We can find the settings to allow this in remote desktop then clicking "select users that can remotely access this PC". We'll then add domain users.
+
+  
+![image](https://github.com/IsaiahLawrence/configure-ad/assets/152194351/6b36c47e-955b-48d5-8b4c-5a7e5bc7ff0d)
 
 
 
@@ -49,22 +52,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
