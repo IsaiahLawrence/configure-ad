@@ -21,10 +21,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1- We need to set up our server on azure. I'm going to use a VM that's running Windows server 2022 We'll also create a VM that's using windows 10 and that computer will connect to our server
-- Step 2- In azure the server we created; set it's ip configuration to static (this just means the ip address doesn't change) ![image](https://github.com/IsaiahLawrence/configure-ad/assets/152194351/a20d6bd0-503d-4885-91f7-ad41aa4d0102)
+- Step 2- In azure the server we created; set it's ip configuration to static (this just means the ip address doesn't change)
+- Step 3- Once both machines are set up we ping the server; if request times out we open up the firewall on our server to allow pings as pictured below we enabled ICMPv4 echo request which allowed us to ping our server
+-   ![image](https://github.com/IsaiahLawrence/configure-ad/assets/152194351/a20d6bd0-503d-4885-91f7-ad41aa4d0102)
 
-- Step 3- 
-- Step 4
+- Step 4- We need to install Active Directory Domain Services through the server manager.  ![image](https://github.com/IsaiahLawrence/configure-ad/assets/152194351/542f3b10-d2cf-4068-b442-c4f2f74b00fc)
+
+- Step 5-
 
 <h2>Deployment and Configuration Steps</h2>
 
