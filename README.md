@@ -46,10 +46,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Creating Random Users With Powershell</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Now we'll run a script in powershell ISE to make some accounts that will end up in our employees folder
+
+  ![image](https://github.com/IsaiahLawrence/configure-ad/assets/152194351/db5136dd-7511-41a8-b920-56d88763224a)
+
+Now we can take anyone of those employees and log into our windows 10 computer since they all were addded to our domain user group
 </p>
 <p>
 
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
