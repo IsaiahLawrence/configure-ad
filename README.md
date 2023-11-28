@@ -56,4 +56,3 @@ Now we can take anyone of those employees and log into our windows 10 computer s
 </p>
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
